@@ -18,7 +18,7 @@ This repository contains the analysis of airline customer behavior and loyalty p
 To run the analysis, you need to have Python and the following libraries installed:
 
 ```sh
-pip install pyspark matplotlib pandas seaborn
+pip install pyspark plotly
 ```
 
 ## Data Preparation
