@@ -79,5 +79,4 @@ The script will generate visualizations and save the results in the `analysis_re
   - Implement end-of-year campaigns to mitigate the dip in flight activity.
 
 - **Further Analysis**:
-  - Investigate reasons behind the low points redemption rate.
   - Conduct deeper analysis to understand factors influencing travel patterns.
